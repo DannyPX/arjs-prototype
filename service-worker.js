@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/arjs-prototype/precache-manifest.13bd1771156fc7c2f61299f47fb4e729.js"
+  "/arjs-prototype/precache-manifest.f7e889890dfd904e99e9b540f252862b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "arjs-prototype"});
